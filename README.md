@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Flutter UI design**
 
-- 💬 Ask me about **react, C++, Java, C#, HTML5, CSS, JS, PY, and**
+- 💬 Ask me about **Something to do with a computer**
 
 - 📫 How to reach me **olusiekwingraham@gmail.com**
 
-- ⚡ Fun fact **I am Black.**
+- ⚡ Fun fact **I am a Black Duke.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
