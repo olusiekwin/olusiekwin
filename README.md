@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_olusiekwin" target="blank"><img src="https://img.shields.io/twitter/follow/_olusiekwin?logo=twitter&style=for-the-badge" alt="_olusiekwin" /></a> </p>
 
-- 🔭 I’m currently working on **PHP. Proposed ZU Electral System**
+- 🔭 I’m currently working on **Flutter UI design**
 
 - 💬 Ask me about **react, C++, Java, C#, HTML5, CSS, JS, PY, and**
 
