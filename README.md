@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_olusiekwin" target="blank"><img src="https://img.shields.io/twitter/follow/_olusiekwin?logo=twitter&style=for-the-badge" alt="_olusiekwin" /></a> </p>
 
-- 🔭 I’m currently working on **XXProjectXX**
+- 🔭 I’m currently working on FLUTTER
 
 - 💬 Ask me about **Something to do with a computer**
 
