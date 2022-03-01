@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Something to do with a computer**
 
-- 📫 How to reach me **olusiekwingraham@gmail.com**
+- 📫 How to reach me **Not Yet For Industrial Assessment**
 
 - ⚡ Fun fact **I am a Black Duke.**
 
