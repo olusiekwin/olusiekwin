@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Something to do with a computer**
 
-- 📫 How to reach me **Not Yet For Industrial Assessment**
-
 - ⚡ Fun fact **I am a Black Duke.**
 
 ### Blogs posts
@@ -29,8 +27,6 @@
 <a href="https://www.hackerearth.com/@gramm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gramm" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olusiekwin&show_icons=true&locale=en&layout=compact" alt="olusiekwin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olusiekwin&show_icons=true&locale=en" alt="olusiekwin" /></p>
 
