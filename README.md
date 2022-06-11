@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently into **Bug Hunting**
 
-- 💬 Ask me about **Something to do with a computer**
+- 💬 Ask me about **Absolutely Nothing**
 
 - ⚡ Fun fact **I am a Black Duke.**
 
