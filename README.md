@@ -30,5 +30,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olusiekwin&show_icons=true&locale=en" alt="olusiekwin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olusiekwin&" alt="olusiekwin" /></p>
+🚧 **my stats:**
+<!-- TODO-IST:START -->
+🏆    almost there       
+🌸  Completed 0 tasks today           
+✅  Completed alot of tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
