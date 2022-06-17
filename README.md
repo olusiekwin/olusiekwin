@@ -29,12 +29,12 @@ I'm a Pan-African Developer 💻, Designer 🎨 and hopefully a freelancer!
 - 💬 Ask me about **Absolutely Nothing**
 
 - ⚡ Fun fact **I am a Black Duke.**
-</br>
-🚧 **my stats:**
+  </br>
+  🚧 **my stats:**
 
 <details>
   <summary>GitHub Stats</summary>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olusiekwin&show_icons=true&theme=gotham" alt="olusiekwin" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olusiekwin&show_icons=true&theme=gotham" alt="olusiekwin" /></p>
 </details>
 <!-- TODO-IST:START -->
 
