@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gramm</h1>
-<h3 align="center">A Software interlect from Kenya.</h3>
+<p align= "center">
+  
+![Black and Blue Modern Action Gaming Livestream Twitch Banner](https://user-images.githubusercontent.com/85841088/174297440-d016eca1-2e3e-430e-97a8-279bc567abd2.png)
+  
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olusiekwin&label=Profile%20views&color=0e75b6&style=flat" alt="olusiekwin" /> </p>
 
