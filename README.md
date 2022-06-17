@@ -4,6 +4,16 @@
   
 </p>
 
+<h3 align="center">
+  
+Jambo, am <a href="https://www.gramm.dev/" target="_blank" rel="noreferrer">Gramm</a> 👋
+  
+</h3>
+
+<h2 align="center">
+I'm a Pan-African Developer 
+</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olusiekwin&label=Profile%20views&color=0e75b6&style=flat" alt="olusiekwin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olusiekwin" alt="olusiekwin" /></a> </p>
