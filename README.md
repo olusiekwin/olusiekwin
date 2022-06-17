@@ -20,7 +20,7 @@ I'm a Pan-African Developer 💻, Designer 🎨 and hopefully a freelancer!
 
 <details>
   <summary>Trophies</summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olusiekwin" alt="olusiekwin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olusiekwin" alt="olusiekwin" /></a> </p>
 </details>
 <p align="left"> <a href="https://twitter.com/_olusiekwin" target="blank"><img src="https://img.shields.io/twitter/follow/_olusiekwin?logo=twitter&style=for-the-badge" alt="_olusiekwin" /></a> </p>
 
