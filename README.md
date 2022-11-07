@@ -13,7 +13,7 @@ Jambo, am <a href="https://www.gramm.dev/" target="_blank" rel="noreferrer">Gram
 <h2 align="center">
 I'm a Pan-African Developer 💻, Designer 🎨 and hopefully a freelancer!
 </h2>
-<h5>I love the entire process of developing through unleashing my whole creativity. Learning how people are biult and what roles they are best in a team in relation to machine based learning.</h5>
+<h5 align="justified">I love the entire process of developing through unleashing my whole creativity. Learning how people are biult and what roles they are best in a team in relation to machine based learning.</h5>
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olusiekwin&label=Profile%20views&color=0e75b6&style=flat" alt="olusiekwin" /> </p>
