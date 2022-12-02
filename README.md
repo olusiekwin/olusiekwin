@@ -1,8 +1,4 @@
-<p align= "center">
-  
-![Black and Blue Modern Action Gaming Livestream Twitch Banner](https://user-images.githubusercontent.com/85841088/174297440-d016eca1-2e3e-430e-97a8-279bc567abd2.png)
-  
-</p>
+
 
 <h3 align="center">
   
