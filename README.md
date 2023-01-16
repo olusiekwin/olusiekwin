@@ -50,7 +50,7 @@ I'm a Pan-African Developer 💻, Designer 🎨 and hopefully a freelancer!
   🚧 **my stats:**
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary> :Fire: GitHub Stats :Fire:</summary>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olusiekwin&show_icons=true&theme=gotham" alt="olusiekwin" /></p>
 </details>
 <!-- TODO-IST:START -->
