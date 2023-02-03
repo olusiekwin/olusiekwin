@@ -20,7 +20,7 @@ I'm a Pan-African Developer 💻, Designer 🎨 and hopefully a freelancer!
 </details>
 <p align="left"> <a href="https://twitter.com/_olusiekwin" target="blank"><img src="https://img.shields.io/twitter/follow/_olusiekwin?logo=twitter&style=for-the-badge" alt="_olusiekwin" /></a> </p>
 
-- 🔭 I’m currently into **Bug Hunting**
+- 🔭 I’m currently into **SE-2023-PROGRAM**
 
 - 💬 Ask me about **Absolutely Nothing**
 
