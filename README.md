@@ -1,6 +1,6 @@
 <div align="center">
   <h3>👋 Jambo, am <a href="https://www.gramm.dev/" target="_blank" rel="noreferrer">Gramm</a></h3>
-  <p>Pan-African Cloud and DevOps Engineer</p>
+  <p>☁️🌍Pan-African ☁️Cloud and DevOps Engineer</p>
   <p>🚀 Building the Future of Technology in Africa</p>
 </div>
 
