@@ -14,20 +14,37 @@
   <p>With a deep understanding of the unique challenges facing African businesses and organizations, I am dedicated to delivering innovative solutions that empower and uplift our communities. Let's work together to build a brighter future for Africa!</p>
 </div>
 
+
+---
 <div align="center">
-  <h4>🛠️ Skills</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase
-<p align="center">
-  <img src="https://i.imgur.com/B0nJSaE.png" alt="Tool emoji">
-  <b>Tools:</b> VS Code, Git, GitHub
-  <img src="https://i.imgur.com/B0nJSaE.png" alt="Tool emoji">
-</p>
+<h4>💻 Technologies & 🛠 Tools <h4>
+
+### Cloud Platforms
+
+[![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#) [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+
+### DevOps Tools
+
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#) [![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)](#) [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)](#) [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)
+
+### Programming Languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+
+### Cloud Security
+
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](#) [![Pulumi](https://img.shields.io/badge/Pulumi-663399?style=for-the-badge&logo=pulumi&logoColor=white)](#)
+
+### CyberLaw
+
+[![Cybersecurity Law](https://img.shields.io/badge/Cybersecurity%20Law-432a5f?style=for-the-badge&logo=law&logoColor=white)](#) [
+
+  </div>
+<div align="center">
+  <h4>📈 Stats</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olusiekwin&layout=compact&langs_count=8&theme=algolia" alt="olusiekwin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olusiekwin&show_icons=true&theme=algolia" alt="olusiekwin" />
+</div>
+<div align="center">
+  <p>Let's connect on <a href="https://www.linkedin.com/in/olusola-ademola-014617118/" target="_blank" rel="noreferrer">LinkedIn</a> or <a href="https://twitter.com/_olusiekwin" target="_blank" rel="noreferrer">Twitter</a> and chat about tech, Africa or whatever else interests you!</p>
+</div>
