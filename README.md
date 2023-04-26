@@ -6,11 +6,14 @@ Jambo, am <a href="https://www.gramm.dev/" target="_blank" rel="noreferrer">Gram
   
 </h3>
 
-<h2 align="center">
-I'm a Pan-African Developer 💻, Designer 🎨 and hopefully a freelancer!
-</h2>
-<h5 align="center">I love the entire process of developing through unleashing my whole creativity. Learning how people are biult and what roles they are best in a team in relation to machine based learning.</h5>
+<div align="center">
+☁️🌍 Pan-African Cloud and DevOps Engineer
+🚀 Building the Future of Technology in Africa
+As a Pan-African cloud and DevOps engineer, I am passionate about using technology to improve the lives of people across the continent. My work focuses on building scalable and reliable cloud infrastructure, as well as optimizing the software development process through DevOps best practices.
 
+With a deep understanding of the unique challenges facing African businesses and organizations, I am dedicated to delivering innovative solutions that empower and uplift our communities. Let's work together to build a brighter future for Africa!
+
+</div>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olusiekwin&label=Profile%20views&color=0e75b6&style=flat" alt="olusiekwin" /> </p>
 
