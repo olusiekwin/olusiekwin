@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=olusiekwin&label=Profile%20views&color=0e75b6&style=flat-square" alt="olusiekwin" />
-  <img src="https://img.shields.io/twitter/follow/_olusiekwin?color=0e75b6&label=%20%20Follow%20%20&logo=twitter&logoColor=white&style=flat-square" alt="_olusiekwin" />
+  <img src="https://img.shields.io/twitter/follow/@_olusiekwin?color=0e75b6&label=%20%20Follow%20%20&logo=twitter&logoColor=white&style=flat-square" alt="_olusiekwin" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@
 
 ### CyberLaw
 
-[![Cybersecurity Law](https://img.shields.io/badge/Cybersecurity%20Law-432a5f?style=for-the-badge&logo=law&logoColor=white)](#) [
+[![Cybersecurity Law](https://img.shields.io/badge/Cybersecurity%20Law-432a5f?style=for-the-badge&logo=law&logoColor=white)](#) ]
 
   </div>
 <div align="center">
