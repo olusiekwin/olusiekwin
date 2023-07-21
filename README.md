@@ -46,5 +46,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=olusiekwin&show_icons=true&theme=algolia" alt="olusiekwin" />
 </div>
 <div align="center">
-  <p>Let's connect on <a href="https://www.linkedin.com/in/grahamolusiekwin/" target="_blank" rel="noreferrer">LinkedIn</a> or <a href="https://twitter.com/_olusiekwin" target="_blank" rel="noreferrer">Twitter</a> and chat about tech, Africa or whatever else interests you!</p>
+  <p>Let's connect on <a href="https://www.linkedin.com/in/graham-olusiekwin/" target="_blank" rel="noreferrer">LinkedIn</a> or <a href="https://twitter.com/_olusiekwin" target="_blank" rel="noreferrer">Twitter</a> and chat about tech, Africa or whatever else interests you!</p>
 </div>
