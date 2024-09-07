@@ -31,15 +31,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
 
-### Cloud Security
 
-[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](#) [![Pulumi](https://img.shields.io/badge/Pulumi-663399?style=for-the-badge&logo=pulumi&logoColor=white)](#)
-
-### CyberLaw
-
-[![Cybersecurity Law](https://img.shields.io/badge/Cybersecurity%20Law-432a5f?style=for-the-badge&logo=law&logoColor=white)](#) ]
-
-  </div>
 <div align="center">
   <h4>📈 Stats</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olusiekwin&layout=compact&langs_count=8&theme=algolia" alt="olusiekwin" />
